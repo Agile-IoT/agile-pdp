@@ -1,0 +1,23 @@
+{
+  "name": "agile-pdp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "dependencies": {
+    "agile-upfront-leveldb": "git+https://github.com/Agile-IoT/agile-upfront-leveldb.git",
+    "UPFROnt": "git+https://github.com/SEDARI/UPFROnt#1189c3dab38e8bdff6829ea58e44b9f66216a792"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agile-iot/agile-pdp.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agile-iot/agile-pdp/issues"
+  },
+  "homepage": "https://github.com/agile-iot/agile-pdp#readme"
+}
