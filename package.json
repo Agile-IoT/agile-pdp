@@ -1,5 +1,5 @@
 {
-  "name": "agile-pdp",
+  "name": "agile-policies",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agile-iot/agile-pdp.git"
+    "url": "git+https://github.com/agile-iot/agile-policies.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/agile-iot/agile-pdp/issues"
+    "url": "https://github.com/agile-iot/agile-policies/issues"
   },
-  "homepage": "https://github.com/agile-iot/agile-pdp#readme"
+  "homepage": "https://github.com/agile-iot/agile-policies#readme"
 }
