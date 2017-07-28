@@ -6,9 +6,15 @@
   "scripts": {
     "test": "npm test"
   },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-jsbeautifier": "^0.2.13"
+  },
   "dependencies": {
+    "UPFROnt": "git+https://github.com/SEDARI/UPFROnt#1189c3dab38e8bdff6829ea58e44b9f66216a792",
     "agile-upfront-leveldb": "git+https://github.com/Agile-IoT/agile-upfront-leveldb.git",
-    "UPFROnt": "git+https://github.com/SEDARI/UPFROnt#1189c3dab38e8bdff6829ea58e44b9f66216a792"    
+    "clone": "^2.1.1"
   },
   "repository": {
     "type": "git",
