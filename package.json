@@ -12,7 +12,7 @@
     "grunt-jsbeautifier": "^0.2.13"
   },
   "dependencies": {
-    "UPFROnt": "git+https://github.com/SEDARI/UPFROnt#1189c3dab38e8bdff6829ea58e44b9f66216a792",
+    "UPFROnt": "git+https://github.com/nopbyte/UPFROnt#frozen-in-time2",
     "agile-upfront-leveldb": "git+https://github.com/Agile-IoT/agile-upfront-leveldb.git",
     "clone": "^2.1.1",
     "winston": "^2.3.1"
