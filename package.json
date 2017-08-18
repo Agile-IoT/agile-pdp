@@ -12,9 +12,10 @@
     "grunt-jsbeautifier": "^0.2.13"
   },
   "dependencies": {
-    "UPFROnt": "git+https://github.com/nopbyte/UPFROnt#frozen-in-time2",
+    "agile-audit": "git+https://github.com/Agile-IoT/agile-audit.git",
     "agile-upfront-leveldb": "git+https://github.com/Agile-IoT/agile-upfront-leveldb.git",
     "clone": "^2.1.1",
+    "UPFROnt": "git+https://github.com/nopbyte/UPFROnt#frozen-in-time2",
     "winston": "^2.3.1"
   },
   "repository": {
