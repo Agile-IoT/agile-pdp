@@ -14,9 +14,10 @@
   "dependencies": {
     "agile-audit": "git+https://github.com/Agile-IoT/agile-audit.git#v0.1.0",
     "agile-upfront-leveldb": "git+https://github.com/Agile-IoT/agile-upfront-leveldb.git",
+    "agile-upfront-locks": "git+https://github.com/Agile-IoT/agile-upfront-locks",
     "clone": "^2.1.1",
     "UPFROnt": "git+https://github.com/sedari/UPFROnt#v0.4.2",
-    "winston": "^2.3.1"
+    "winston": "2.3.1"
   },
   "repository": {
     "type": "git",
