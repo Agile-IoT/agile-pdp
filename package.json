@@ -16,7 +16,7 @@
     "agile-upfront-leveldb": "git+https://github.com/Agile-IoT/agile-upfront-leveldb.git",
     "agile-upfront-locks": "git+https://github.com/Agile-IoT/agile-upfront-locks",
     "clone": "^2.1.1",
-    "UPFROnt": "git+https://github.com/sedari/UPFROnt#v0.4.2",
+    "UPFROnt": "git+https://github.com/nopbyte/UPFROnt",
     "winston": "2.3.1"
   },
   "repository": {
